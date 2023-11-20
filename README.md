@@ -20,6 +20,12 @@ options:
   --show-return-values  Show return values, omit the function body
 ```
 
+<video width="320" height="240" controls>
+  <source src="examples/minima.mov" type="video/mov">
+  Sorry, this browser does not support the `video` tag.
+</video>
+
+
 
 ## Adding to path (Will be updated in the future)
 
