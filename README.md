@@ -51,7 +51,8 @@ if __name__ == "__main__":
     main()
 ```
 
-Now you should be able to run:
+## Running: 
+Now after everything is ran, you should just be able to run `minipy`
 ```
 $ minipy
 usage: minipy [-h] [--dependencies] [--tree-shake] [--hide-methods] [--hide-functions]
